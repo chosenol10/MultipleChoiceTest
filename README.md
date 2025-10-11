@@ -1,2 +1,0 @@
-# MultipleChoiceTest
-project PTIT
