@@ -1,6 +1,6 @@
 
 # **ĐỀ TÀI MÔN CẤU TRÚC DỮ LIỆU & GIẢI THUẬT**
-**KHÓA 2023 - CNTT CLC**
+**KHÓA 2024 - CNTT CLC**
 
 ## **3. Thi trắc nghiệm**
 
