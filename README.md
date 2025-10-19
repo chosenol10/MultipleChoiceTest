@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **ĐỀ TÀI MÔN CẤU TRÚC DỮ LIỆU & GIẢI THUẬT**
 **KHÓA 2023 - CNTT CLC**
 
