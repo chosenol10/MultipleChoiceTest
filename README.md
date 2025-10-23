@@ -166,4 +166,4 @@
 - Chương trình cho phép **lưu các danh sách vào file**.  
 - **Kiểm tra các điều kiện** làm dữ liệu bị sai.  
 - **Sinh viên** có thể **tự thiết kế thêm danh sách** để đáp ứng yêu cầu của đề tài.
->>>>>>> 58aa55b5891147188415a4115faec4e4805e7782
+
